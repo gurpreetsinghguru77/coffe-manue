@@ -1,0 +1,78 @@
+ body{
+    margin: 0px 0px 0px 0px ;
+    background-color: rgba(184, 142, 142, 0.801);
+    justify-items: center;
+    padding: 0px 10px 0px 10px;
+    
+ }
+ 
+.nevbar{
+    background-image: url(coffe.jpg);
+       width: 1345px;
+      height: 300px;
+      background-position: center;
+      border-radius: 15px;
+      box-shadow: 1px 2px 1px 1px rgb(85, 85, 85);
+}
+.nevbar input{
+    background-color: rgb(72, 35, 35);
+    position: relative;
+    width: 700px;
+    height: 40px;
+    color: white;
+    border-radius: 16px ;
+   border: 2px double;
+   margin: 70px 0px 0px 400px;
+   position:sticky;
+   top: 60px ;
+}
+.con img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+    
+    
+}
+.con:hover img{
+    box-shadow: 0px 6px 4px 1px rgba(0, 0, 0, 0.773);
+}
+h4{
+    text-align: center;
+    
+    text-decoration: underline;
+}
+.ps{
+    display: inline-block;
+   
+    height: 200px;
+    color: rgb(55, 10, 10);
+}
+.con img{
+   margin: 50px 87px 0px 92px;
+}
+hr{
+   border: 1px solid black;
+}
+.bo{
+    color: rgb(35, 5, 5);
+    background-color: rgba(125, 42, 14, 0.38);
+    padding: 22px ;
+    width: 1200px;
+    margin: 20px auto auto auto;
+    border-radius: 14px;
+}
+.boos{
+    color: rgb(35, 5, 5);
+    background-color: rgba(125, 42, 14, 0.38);
+    padding: 22px ;
+    width: 1200px;
+    margin: 20px auto auto auto;
+    border-radius: 14px;
+    
+}
+.boos p{
+text-align: center;
+}
+
+   
